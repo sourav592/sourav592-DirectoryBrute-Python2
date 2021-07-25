@@ -1,4 +1,4 @@
-#sourav592-DirectoryBrute-Python2
+#sourav592-DirectoryBrute-Python3
 
 how to use
 
@@ -7,3 +7,5 @@ how to use
 -->pip install requests,sys
 
 -->python <url> <wordlist> example-python http://www.google.com/ wordlist.txt
+ 
+  
